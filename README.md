@@ -1,7 +1,11 @@
 CS 251 Final Project
+
 Jack Henahan
+
 12/04/13
+
 Language: Python 2.7.3
+
 Diseases: Allergies, Generalized Anxiety Disorder,
             Fibromyalgia, Hypertension, HIV, Pregnancy
 
@@ -11,7 +15,7 @@ associated lisp sources [2].
 
 To run the shell, use
 
-    python -i final.py
+    python -i pycin.py
 
 Type help for more information.
 
